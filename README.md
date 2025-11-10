@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an app as well as an vr educational game<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with some of my projects<br>🌱 I’m currently learning Kotlin, Python and javascript<br>💬 Ask me about anything that has to do with computers<br>⚡ Fun fact: still trying to figure that out!
+🔭 I’m currently working on an model intergration for predicting pancreas cancer<br>👯 I’m looking to collaborate on AI & ML projects<br>🤝 I’m looking for help with some of my projects<br>🌱 I’m currently learning  Python and javascript<br>💬 Ask me about anything that has to do with computers<br>⚡ Fun fact: still trying to figure that out!
 
 
 ## 🌐 Socials:
